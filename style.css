@@ -2,12 +2,18 @@
 
 .navbar {
     padding: 2rem;
-    background-color: #f5f6f7;
+    background-color: #6fa0d1;
 }
 
 .navbar-collapse {
     align-items: center;
     justify-content: space-between;
+}
+
+.nav-link:hover {
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
 }
 
 /* Estilos generales */
